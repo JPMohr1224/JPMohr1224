@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @JPMohr1224
 - 👀 I’m interested in learning right now all the pathways I can travel
-- 🌱 I’m currently learning with the TrueCoders Software Engineering Bootcamp and deciding what fields I'd like to pursue more specialized knowledge in.
+- 🌱 After graduatin from TrueCoders Software Engineering Bootcamp I am working in the Finance/Planning & Analysis field.
+-   I;m interested in all things Data and in my free time I'm working to expand my knowledge on projects with Tableau, Power BI, and VBA as well as improving my skills at Javascript, Python and SQL.
 - 💞️ I’m looking to collaborate on anything at this point.
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him
